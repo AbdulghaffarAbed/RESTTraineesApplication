@@ -1,6 +1,6 @@
 # RESTTraineesApplication
-Practical application on spring boot wit REST API, This code include implementation of CRUD operations, JPA,
-Hibernate where PostgreSQL database used and secure the application using spring security.
+Practical application on spring boot wit REST API, This code include implementation of CRUD operations, Swagger, JPA,
+Hibernate where PostgreSQL database used, and secure the application using spring security.
 
 # More Description Details:
 The goal of this application is to deal with REST API and HTTP CRUD methods
