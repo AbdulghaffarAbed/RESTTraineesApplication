@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<traineesSet>
+    <traineesList>
+        <traineeName>Abdulghaffar Abed</traineeName>
+        <universityName>BZU</universityName>
+        <trainingPath>Backend</trainingPath>
+        <GPA>3.21</GPA>
+    </traineesList>
+    <traineesList>
+        <traineeName>Ahmad Ayman</traineeName>
+        <universityName>BZU</universityName>
+        <trainingPath>Frontend</trainingPath>
+        <GPA>2.81</GPA>
+    </traineesList>
+    <traineesList>
+        <traineeName>Saeed</traineeName>
+        <universityName>Al-najah</universityName>
+        <trainingPath>Backend</trainingPath>
+        <GPA>2.99</GPA>
+    </traineesList>
+</traineesSet>
